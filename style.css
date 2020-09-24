@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("./other-images/windowsXPbackground.jpg");
+  background-size: 100vw;
+  background-repeat: no-repeat;
+}
+.car3{
+  background-color: rgba(0, 255, 255, 0.5);
+  width: 80vw;
+  /* Top, right, bottom, left */
+  margin: 10vh 10vw 0vh 10vw;
+}
+div#car3.viewer{
+  margin:0;
+}
+.instructions{
+  color: white;
+}
